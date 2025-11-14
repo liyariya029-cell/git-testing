@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import PhoneBook from './components/PhoneBook';
 
-function App() {
+/*function App() {
   return (
     <Router>
       <nav>
@@ -14,6 +14,6 @@ function App() {
       </Routes>
     </Router>
   );
-}
+}*/
 
 export default App;
