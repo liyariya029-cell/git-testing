@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import PhoneBook from './components/PhoneBook';
 
@@ -16,4 +16,4 @@ function App() {
   );
 }
 
-export default App;
+export default App;*/
